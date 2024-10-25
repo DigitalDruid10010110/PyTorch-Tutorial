@@ -7,7 +7,6 @@ Online tutorial used: https://pytorch.org/tutorials/beginner/deep_learning_60min
 ## 📋 Contents
 - `test-pytorch.py`: Test script to verify the PyTorch installation.
 - `01_tensors.py`: Working with tensors in PyTorch.
-- `02_tensor_attrib.py`: Example of a linear layer in PyTorch.
 - More scripts coming soon as I progress!
 
 ## 🚀 Purpose
